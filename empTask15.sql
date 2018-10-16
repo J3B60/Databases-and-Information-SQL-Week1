@@ -1,0 +1,1 @@
+SELECT empno, job FROM emp WHERE (job = 'ANALYST') OR (job = 'MANAGER');
