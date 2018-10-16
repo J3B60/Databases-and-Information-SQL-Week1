@@ -1,0 +1,1 @@
+SELECT deptno, dname FROM dept WHERE SUBSTR(dname, 2, 1) = 'C';
