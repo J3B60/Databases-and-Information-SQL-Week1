@@ -1,0 +1,3 @@
+SELECT ENAME AS Employee_Name
+	FROM emp
+	WHERE DEPTNO=30 AND sal>=1000;
